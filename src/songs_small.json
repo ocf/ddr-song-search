@@ -1,0 +1,1235 @@
+{
+    "Super Skittles Selection Turbo": [
+        {
+            "title": "Troll the Cowardly",
+            "subtitle": "2021 Redux",
+            "artist": "Feryquitous",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "64.966",
+            "samplelength": "27.724",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": null,
+            "cdtitle": "",
+            "music": "Troll the Cowardly (2021 Redux).ogg",
+            "bgchanges": "",
+            "fgchanges": "",
+            "keysounds": null,
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.009",
+            "bpms": "0.000=145.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Hard",
+                    "meter": "10",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "12",
+                    "radarvalues": "0,0,0,0,0"
+                }
+            ]
+        },
+        {
+            "title": "ZIPANG",
+            "subtitle": "",
+            "artist": "Tanchiky",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "78.750",
+            "samplelength": "15.000",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": null,
+            "cdtitle": "",
+            "music": "ZIPANG.ogg",
+            "bgchanges": "",
+            "fgchanges": "",
+            "keysounds": null,
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.009",
+            "bpms": "0.000=128.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Beginner",
+                    "meter": "1",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Easy",
+                    "meter": "5",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Medium",
+                    "meter": "6",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Hard",
+                    "meter": "8",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "10",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-double",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "11",
+                    "radarvalues": "0,0,0,0,0"
+                }
+            ]
+        },
+        {
+            "title": "Caffeine Kitty",
+            "subtitle": "",
+            "artist": "ESAI",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "58.435",
+            "samplelength": "16.696",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": null,
+            "cdtitle": "",
+            "music": "Caffeine Kitty.ogg",
+            "bgchanges": "",
+            "fgchanges": "",
+            "keysounds": null,
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.009",
+            "bpms": "0.000=115.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Medium",
+                    "meter": "6",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Hard",
+                    "meter": "8",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "10",
+                    "radarvalues": "0,0,0,0,0"
+                }
+            ]
+        },
+        {
+            "title": "Caffeine Kitty",
+            "subtitle": "",
+            "artist": "ESAI",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "58.435",
+            "samplelength": "16.696",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": null,
+            "cdtitle": "",
+            "music": "Caffeine Kitty.ogg",
+            "bgchanges": "",
+            "fgchanges": "",
+            "keysounds": null,
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.009",
+            "bpms": "0.000=115.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Medium",
+                    "meter": "6",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Hard",
+                    "meter": "8",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "10",
+                    "radarvalues": "0,0,0,0,0"
+                }
+            ]
+        },
+        {
+            "title": "AKIRA THE SHARK",
+            "subtitle": "",
+            "artist": "Zekk",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "34.286",
+            "samplelength": "30.000",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": null,
+            "cdtitle": "",
+            "music": "AKIRA THE SHARK.ogg",
+            "bgchanges": "",
+            "fgchanges": "",
+            "keysounds": null,
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.009",
+            "bpms": "0.000=133.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Beginner",
+                    "meter": "1",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Easy",
+                    "meter": "2",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Medium",
+                    "meter": "5",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Hard",
+                    "meter": "9",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "12",
+                    "radarvalues": "0,0,0,0,0"
+                }
+            ]
+        },
+        {
+            "title": "Everlasting",
+            "subtitle": "",
+            "artist": "Nhato",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "82.500",
+            "samplelength": "15.000",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": null,
+            "cdtitle": "",
+            "music": "Everlasting.ogg",
+            "bgchanges": "",
+            "fgchanges": "",
+            "keysounds": null,
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.009",
+            "bpms": "0.000=128.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Beginner",
+                    "meter": "1",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Easy",
+                    "meter": "3",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Medium",
+                    "meter": "6",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Hard",
+                    "meter": "9",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "11",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-double",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "12",
+                    "radarvalues": "0,0,0,0,0"
+                }
+            ]
+        },
+        {
+            "title": "Lights Camera Action",
+            "subtitle": "",
+            "artist": "meganeko",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "58.475",
+            "samplelength": "16.780",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": null,
+            "cdtitle": "",
+            "music": "Lights Camera Action.ogg",
+            "bgchanges": "",
+            "fgchanges": "",
+            "keysounds": null,
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.009",
+            "bpms": "0.000=118.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Hard",
+                    "meter": "9",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "10",
+                    "radarvalues": "0,0,0,0,0"
+                }
+            ]
+        },
+        {
+            "title": "Lights Camera Action",
+            "subtitle": "",
+            "artist": "meganeko",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "58.475",
+            "samplelength": "16.780",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": null,
+            "cdtitle": "",
+            "music": "Lights Camera Action.ogg",
+            "bgchanges": "",
+            "fgchanges": "",
+            "keysounds": null,
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.009",
+            "bpms": "0.000=118.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Hard",
+                    "meter": "9",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "10",
+                    "radarvalues": "0,0,0,0,0"
+                }
+            ]
+        },
+        {
+            "title": "Butterfly Twist",
+            "subtitle": "",
+            "artist": "Yooh",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "25.424",
+            "samplelength": "12.000",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": null,
+            "cdtitle": "",
+            "music": "Butterfly Twist.ogg",
+            "bgchanges": "",
+            "fgchanges": "",
+            "keysounds": null,
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.076",
+            "bpms": "0.000=160.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Hard",
+                    "meter": "9",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "11",
+                    "radarvalues": "0,0,0,0,0"
+                }
+            ]
+        },
+        {
+            "title": "Butterfly Twist",
+            "subtitle": "",
+            "artist": "Yooh",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "25.424",
+            "samplelength": "12.000",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": null,
+            "cdtitle": "",
+            "music": "Butterfly Twist.ogg",
+            "bgchanges": "",
+            "fgchanges": "",
+            "keysounds": null,
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.076",
+            "bpms": "0.000=160.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Hard",
+                    "meter": "9",
+                    "radarvalues": "0,0,0,0,0"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Chief Skittles",
+                    "difficulty": "Challenge",
+                    "meter": "11",
+                    "radarvalues": "0,0,0,0,0"
+                }
+            ]
+        }
+    ],
+    "Touhou Oumukan ~ Sakura Dream Sensation": [
+        {
+            "title": "Sleepless Night of the Eastern Country",
+            "subtitle": "",
+            "artist": "ZUN",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "wrsw",
+            "samplestart": "6.626",
+            "samplelength": "11.999",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "Sleepless Night of the Eastern Country - bn.png",
+            "background": "Sleepless Night of the Eastern Country - bg.png",
+            "lyricspath": "",
+            "cdtitle": "cdtitle.png",
+            "music": "Sleepless Night of the Eastern Country.ogg",
+            "bgchanges": "",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "-0.280",
+            "bpms": "0.000=151.500,16.000=160.000,208.000=156.000,236.000=153.000,240.000=160.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "wrsw",
+                    "difficulty": "Beginner",
+                    "meter": "2",
+                    "radarvalues": "0.156,0.132,0.043,0.029,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "wrsw",
+                    "difficulty": "Easy",
+                    "meter": "4",
+                    "radarvalues": "0.332,0.397,0.050,0.209,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "wrsw",
+                    "difficulty": "Medium",
+                    "meter": "7",
+                    "radarvalues": "0.458,0.463,0.072,0.201,0.014"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "wrsw",
+                    "difficulty": "Hard",
+                    "meter": "10",
+                    "radarvalues": "0.761,0.728,0.022,0.050,0.378"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "wrsw",
+                    "difficulty": "Challenge",
+                    "meter": "12",
+                    "radarvalues": "1.000,1.000,0.345,0.317,1.000"
+                }
+            ]
+        },
+        {
+            "title": "KAMSABI",
+            "subtitle": "",
+            "artist": "t+pazolite",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "60.428",
+            "samplelength": "21.333",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "kamsabi bn.png",
+            "background": "kamsabi bg.png",
+            "lyricspath": "",
+            "cdtitle": "cdtitlecondortalon.png",
+            "music": "KAMSABI.ogg",
+            "bgchanges": "",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.009",
+            "bpms": "0.000=170.000,84.000=175.000,96.000=180.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "CondorTalon",
+                    "difficulty": "Challenge",
+                    "meter": "12",
+                    "radarvalues": "0.959,1.000,0.555,0.129,1.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "CondorTalon",
+                    "difficulty": "Hard",
+                    "meter": "9",
+                    "radarvalues": "0.563,0.591,0.193,0.137,0.386"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "CondorTalon",
+                    "difficulty": "Medium",
+                    "meter": "7",
+                    "radarvalues": "0.460,0.555,0.209,0.185,0.181"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "CondorTalon",
+                    "difficulty": "Easy",
+                    "meter": "4",
+                    "radarvalues": "0.252,0.296,0.040,0.048,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "CondorTalon",
+                    "difficulty": "Beginner",
+                    "meter": "1",
+                    "radarvalues": "0.085,0.072,0.008,0.000,0.000"
+                }
+            ]
+        },
+        {
+            "title": "A Tiny, Tiny, Clever Commander",
+            "subtitle": "",
+            "artist": "ZUN",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "wrsw",
+            "samplestart": "15.285",
+            "samplelength": "16.940",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": "",
+            "cdtitle": "cdtitle.png",
+            "music": "A Tiny, Tiny, Clever Commander.ogg",
+            "bgchanges": "",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "-0.449",
+            "bpms": "0.000=170.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "wrsw",
+                    "difficulty": "Beginner",
+                    "meter": "1",
+                    "radarvalues": "0.112,0.104,0.000,0.000,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "wrsw",
+                    "difficulty": "Easy",
+                    "meter": "3",
+                    "radarvalues": "0.229,0.243,0.032,0.180,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "wrsw",
+                    "difficulty": "Medium",
+                    "meter": "6",
+                    "radarvalues": "0.406,0.388,0.138,0.265,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "wrsw",
+                    "difficulty": "Hard",
+                    "meter": "9",
+                    "radarvalues": "0.687,0.670,0.000,0.286,0.101"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "wrsw",
+                    "difficulty": "Challenge",
+                    "meter": "10",
+                    "radarvalues": "0.833,0.915,0.201,0.138,0.450"
+                }
+            ]
+        },
+        {
+            "title": "Clash of Swords",
+            "subtitle": "",
+            "artist": "Noah",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "42.972",
+            "samplelength": "16.768",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "Clash of swords - bn.png",
+            "background": "Clash of Swords - bg.png",
+            "lyricspath": "",
+            "cdtitle": "gpopcdtitle.png",
+            "music": "Clash of Swords.ogg",
+            "bgchanges": "",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.009",
+            "bpms": "0.000=229.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Challenge",
+                    "meter": "15",
+                    "radarvalues": "1.000,1.000,0.192,0.725,1.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Hard",
+                    "meter": "13",
+                    "radarvalues": "1.000,1.000,0.742,0.707,0.533"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Medium",
+                    "meter": "9",
+                    "radarvalues": "0.828,0.811,0.201,0.445,0.044"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Easy",
+                    "meter": "6",
+                    "radarvalues": "0.527,0.572,0.410,0.192,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Beginner",
+                    "meter": "3",
+                    "radarvalues": "0.217,0.286,0.079,0.000,0.000"
+                }
+            ]
+        },
+        {
+            "title": "Transient Beings, Humans",
+            "subtitle": "",
+            "artist": "Buta-Otome",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "42.681",
+            "samplelength": "21.333",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "Hakanakimono Ningen - bn.png",
+            "background": "Hakanakimono Ningen - bg.png",
+            "lyricspath": "",
+            "cdtitle": "cdtitlebane.png",
+            "music": "Buta-Otome - Hakanakimono Ningen.ogg",
+            "bgchanges": "3.750=Hakanakimono Ningen.avi=1.000=0=0=0=StretchNoLoop====,\n99999=-nosongbg-=1.000=0=0=0 \n",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "1.313",
+            "bpms": "0.000=180.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Bane",
+                    "difficulty": "Challenge",
+                    "meter": "11",
+                    "radarvalues": "1.000,1.000,0.435,0.904,0.657"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Bane",
+                    "difficulty": "Hard",
+                    "meter": "9",
+                    "radarvalues": "0.789,0.834,0.222,0.964,0.201"
+                },
+                {
+                    "stepstype": "dance-double",
+                    "description": "Bane",
+                    "difficulty": "Challenge",
+                    "meter": "12",
+                    "radarvalues": "0.830,1.000,0.486,0.674,0.452"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "TRANSIENCE",
+                    "difficulty": "Edit",
+                    "meter": "12",
+                    "radarvalues": "-1.000,-1.000,-1.000,-1.000,-1.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Bane",
+                    "difficulty": "Medium",
+                    "meter": "7",
+                    "radarvalues": "0.544,0.531,0.009,0.179,0.081"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Bane",
+                    "difficulty": "Easy",
+                    "meter": "4",
+                    "radarvalues": "0.382,0.416,0.384,0.034,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Bane",
+                    "difficulty": "Beginner",
+                    "meter": "2",
+                    "radarvalues": "0.210,0.227,0.282,0.017,0.000"
+                }
+            ]
+        },
+        {
+            "title": "QQQ",
+            "subtitle": "",
+            "artist": "Spacelectro feat. Momokami",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "111.429",
+            "samplelength": "21.942",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "qqq bn.png",
+            "background": "qqq bg.png",
+            "lyricspath": "",
+            "cdtitle": "cdtitlegpopct.png",
+            "music": "QQQ.ogg",
+            "bgchanges": "3.250=QQQ.avi=1.000=1=0=0=StretchNoLoop==CrossFade==,\n99999=-nosongbg-=1.000=0=0=0 \n",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "1.037",
+            "bpms": "0.000=175.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "CondorTalon",
+                    "difficulty": "Challenge",
+                    "meter": "13",
+                    "radarvalues": "1.000,1.000,0.173,0.402,1.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "CondorTalon",
+                    "difficulty": "Medium",
+                    "meter": "8",
+                    "radarvalues": "0.607,0.586,0.048,0.166,0.111"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "CondorTalon",
+                    "difficulty": "Beginner",
+                    "meter": "2",
+                    "radarvalues": "0.143,0.218,0.000,0.000,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Hard",
+                    "meter": "11",
+                    "radarvalues": "0.849,0.807,0.284,0.229,0.641"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Easy",
+                    "meter": "5",
+                    "radarvalues": "0.432,0.440,0.201,0.242,0.028"
+                }
+            ]
+        },
+        {
+            "title": "For Whom The Rabbits Dance",
+            "subtitle": "=Frenetic Frenzy=",
+            "artist": "Rabbit Lovers' Party (cosMoxsyuri22)",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "76.184",
+            "samplelength": "18.700",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "",
+            "background": "",
+            "lyricspath": "",
+            "cdtitle": "",
+            "music": "For Whom The Rabbits Dance =Frenetic Frenzy=.ogg",
+            "bgchanges": "",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "-0.337",
+            "bpms": "0.000=231.000,291.000=-115.000,295.000=231.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Challenge",
+                    "meter": "14",
+                    "radarvalues": "1.000,1.000,0.060,0.300,1.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Hard",
+                    "meter": "11",
+                    "radarvalues": "0.837,0.936,0.291,0.137,0.261"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Medium",
+                    "meter": "8",
+                    "radarvalues": "0.646,0.739,0.129,0.291,0.047"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Easy",
+                    "meter": "6",
+                    "radarvalues": "0.509,0.542,0.197,0.146,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Beginner",
+                    "meter": "2",
+                    "radarvalues": "0.196,0.189,0.051,0.034,0.000"
+                }
+            ]
+        },
+        {
+            "title": "In the Night Where the Kasha Screamed",
+            "subtitle": "",
+            "artist": "UNDEAD CORPORATION",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "61.975",
+            "samplelength": "16.743",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "in the night where the kasha screamed bn.png",
+            "background": "in the night where the kasha screamed bg.png",
+            "lyricspath": "",
+            "cdtitle": "cdtitlebane.png",
+            "music": "In the Night Where the Kasha Screamed.ogg",
+            "bgchanges": "",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "-0.850",
+            "bpms": "0.000=215.010",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Bane",
+                    "difficulty": "Challenge",
+                    "meter": "16",
+                    "radarvalues": "1.000,1.000,0.147,0.365,1.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "KASHA",
+                    "difficulty": "Edit",
+                    "meter": "17",
+                    "radarvalues": "-1.000,-1.000,-1.000,-1.000,-1.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Bane",
+                    "difficulty": "Hard",
+                    "meter": "14",
+                    "radarvalues": "1.000,1.000,0.102,0.365,0.957"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Bane",
+                    "difficulty": "Medium",
+                    "meter": "10",
+                    "radarvalues": "0.866,0.891,0.083,0.147,0.128"
+                },
+                {
+                    "stepstype": "dance-double",
+                    "description": "Bane",
+                    "difficulty": "Challenge",
+                    "meter": "17",
+                    "radarvalues": "1.000,1.000,0.128,0.397,1.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Bane",
+                    "difficulty": "Easy",
+                    "meter": "7",
+                    "radarvalues": "0.503,0.624,0.166,0.237,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Bane",
+                    "difficulty": "Beginner",
+                    "meter": "3",
+                    "radarvalues": "0.217,0.267,0.038,0.000,0.000"
+                }
+            ]
+        },
+        {
+            "title": "SACRIFICE",
+            "subtitle": "",
+            "artist": "Alstroemeria Records",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "63.998",
+            "samplelength": "21.332",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "Sacrifice - bn.png",
+            "background": "Sacrifice - bg.png",
+            "lyricspath": "",
+            "cdtitle": "gpopcdtitle.png",
+            "music": "Sacrifice.ogg",
+            "bgchanges": "",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "0.011",
+            "bpms": "0.000=180.000,192.000=-90.000,196.000=180.000,204.000=-90.000,208.000=180.000,216.000=-90.000,220.000=180.000,228.000=-90.000,232.000=180.000,369.000=90.000,373.000=180.000",
+            "stops": "204.000=0.333\n,216.000=0.333\n,228.000=0.167\n,240.000=0.167\n",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Challenge",
+                    "meter": "11",
+                    "radarvalues": "0.973,1.000,0.108,0.750,0.588"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Hard",
+                    "meter": "8",
+                    "radarvalues": "0.768,0.829,0.278,1.000,0.143"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Medium",
+                    "meter": "6",
+                    "radarvalues": "0.540,0.580,0.147,0.271,0.019"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Easy",
+                    "meter": "4",
+                    "radarvalues": "0.409,0.580,0.170,0.093,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Beginner",
+                    "meter": "2",
+                    "radarvalues": "0.161,0.207,0.039,0.015,0.000"
+                }
+            ]
+        },
+        {
+            "title": "Final Savage Sister, Flandre S",
+            "subtitle": "",
+            "artist": "BeatMARIO",
+            "titletranslit": "",
+            "subtitletranslit": "",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "28.808",
+            "samplelength": "19.199",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "Final Savage Sister - bn.png",
+            "background": "Final Savage Sister - bg.png",
+            "lyricspath": "",
+            "cdtitle": "gpopcdtitle.png",
+            "music": "Final Savage Sister, Flandre S.ogg",
+            "bgchanges": "3.750=Final Savage Sister^ Flandre S.avi=1.000=0=0=0=StretchNoLoop====,\n448.000=Final Savage Sister - bg.png=1.000=1=0=0=StretchNoLoop==CrossFade==,\n99999=-nosongbg-=1.000=0=0=0 \n",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "2.406",
+            "bpms": "0.000=200.000,102.500=400.000,104.000=200.000",
+            "stops": "102.500=0.038\n,102.750=0.038\n,103.000=0.037\n,103.250=0.038\n,103.500=0.038\n,103.750=0.038\n",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Challenge",
+                    "meter": "11",
+                    "radarvalues": "0.915,1.000,0.323,0.713,0.297"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Hard",
+                    "meter": "9",
+                    "radarvalues": "0.763,0.806,0.676,0.450,0.049"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Medium",
+                    "meter": "7",
+                    "radarvalues": "0.581,0.551,0.443,0.435,0.004"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Easy",
+                    "meter": "4",
+                    "radarvalues": "0.343,0.509,0.128,0.053,0.004"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "Gpop",
+                    "difficulty": "Beginner",
+                    "meter": "2",
+                    "radarvalues": "0.160,0.254,0.008,0.045,0.000"
+                }
+            ]
+        }
+    ]
+}
