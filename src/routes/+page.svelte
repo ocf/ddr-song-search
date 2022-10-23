@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="w-full h-screen bg-gray-900 flex items-center justify-center">
+    <h1 class="text-white text-4xl animate-bounce">
+        Hello Tailwind!
+    </h1>
+</div>
