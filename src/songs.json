@@ -1,0 +1,200 @@
+ { "Troll the Cowardly (2021 Redux)": [
+    {
+        "title": "Troll the Cowardly",
+        "subtitle": "2021 Redux",
+        "artist": "Feryquitous",
+        "titletranslit": "",
+        "subtitletranslit": "",
+        "artisttranslit": "",
+        "genre": "",
+        "credit": "",
+        "samplestart": "64.966",
+        "samplelength": "27.724",
+        "selectable": "YES",
+        "instrumenttrack": null,
+        "timesignatures": null,
+        "banner": "",
+        "background": "",
+        "lyricspath": null,
+        "cdtitle": "",
+        "music": "Troll the Cowardly (2021 Redux).ogg",
+        "bgchanges": "",
+        "fgchanges": "",
+        "keysounds": null,
+        "attacks": null,
+        "tickcounts": null,
+        "offset": "0.009",
+        "bpms": "0.000=145.000",
+        "stops": "",
+        "delays": null,
+        "charts": [
+            {
+                "stepstype": "dance-single",
+                "description": "Chief Skittles",
+                "difficulty": "Hard",
+                "meter": "10",
+                "radarvalues": "0,0,0,0,0"
+            },
+            {
+                "stepstype": "dance-single",
+                "description": "Chief Skittles",
+                "difficulty": "Challenge",
+                "meter": "12",
+                "radarvalues": "0,0,0,0,0"
+            }
+        ]
+    }
+],
+ "Kokoro Odoru (Hige Driver Remix)": [
+        {
+            "title": "ココロオドル",
+            "subtitle": "(ヒゲドライバー Remix)",
+            "artist": "nobodyknows+",
+            "titletranslit": "Kokoro Odoru",
+            "subtitletranslit": "(Hige Driver Remix)",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "15.017000",
+            "samplelength": "14.960000",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": "0.000=4=4",
+            "banner": "kokoro-bn.png",
+            "background": "kokoro-bg.png",
+            "lyricspath": "",
+            "cdtitle": "",
+            "music": "kokoroodoru.ogg",
+            "bgchanges": "",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": "\n",
+            "tickcounts": "0.000=4",
+            "offset": "-0.016000",
+            "bpms": "0.000=128.000",
+            "stops": "",
+            "delays": "",
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "FS 32nds",
+                    "difficulty": "Challenge",
+                    "meter": "11",
+                    "radarvalues": "0.841138,0.922173,0.285688,0.250848,1.163658,845.000000,802.000000,41.000000,36.000000,12.000000,1.000000,2.000000,0.000000,0.000000,0.841138,0.922173,0.285688,0.250848,1.163658,845.000000,802.000000,41.000000,36.000000,12.000000,1.000000,2.000000,0.000000,0.000000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "DS",
+                    "difficulty": "Hard",
+                    "meter": "8",
+                    "radarvalues": "0.532555,0.579651,0.160264,0.550473,0.407629,535.000000,512.000000,23.000000,79.000000,4.000000,0.000000,2.000000,0.000000,0.000000,0.532555,0.579651,0.160264,0.550473,0.407629,535.000000,512.000000,23.000000,79.000000,4.000000,0.000000,2.000000,0.000000,0.000000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "ITGAlex",
+                    "difficulty": "Medium",
+                    "meter": "5",
+                    "radarvalues": "0.319533,0.368869,0.006968,0.257816,0.080132,321.000000,320.000000,1.000000,37.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.319533,0.368869,0.006968,0.257816,0.080132,321.000000,320.000000,1.000000,37.000000,0.000000,0.000000,0.000000,0.000000,0.000000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "ITGAlex",
+                    "difficulty": "Easy",
+                    "meter": "2",
+                    "radarvalues": "0.161260,0.236738,0.013936,0.153296,0.000000,162.000000,160.000000,2.000000,22.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.161260,0.236738,0.013936,0.153296,0.000000,162.000000,160.000000,2.000000,22.000000,0.000000,0.000000,0.000000,0.000000,0.000000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "ITGAlex",
+                    "difficulty": "Beginner",
+                    "meter": "1",
+                    "radarvalues": "0.072666,0.182910,0.000000,0.020904,0.000000,73.000000,73.000000,0.000000,3.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.072666,0.182910,0.000000,0.020904,0.000000,73.000000,73.000000,0.000000,3.000000,0.000000,0.000000,0.000000,0.000000,0.000000"
+                },
+                {
+                    "stepstype": "dance-double",
+                    "description": "ITGAlex",
+                    "difficulty": "Challenge",
+                    "meter": "11",
+                    "radarvalues": "0.829193,0.922173,0.278720,0.578345,1.125334,833.000000,793.000000,40.000000,83.000000,0.000000,0.000000,2.000000,0.000000,0.000000,0.829193,0.922173,0.278720,0.578345,1.125334,833.000000,793.000000,40.000000,83.000000,0.000000,0.000000,2.000000,0.000000,0.000000"
+                }
+            ]
+        },
+        {
+            "title": "ココロオドル",
+            "subtitle": "(ヒゲドライバー Remix)",
+            "artist": "nobodyknows+",
+            "titletranslit": "Kokoro Odoru",
+            "subtitletranslit": "(Hige Driver Remix)",
+            "artisttranslit": "",
+            "genre": "",
+            "credit": "",
+            "samplestart": "15.017",
+            "samplelength": "14.960",
+            "selectable": "YES",
+            "instrumenttrack": null,
+            "timesignatures": null,
+            "banner": "kokoro-bn.png",
+            "background": "kokoro-bg.png",
+            "lyricspath": "",
+            "cdtitle": "",
+            "music": "kokoroodoru.ogg",
+            "bgchanges": "",
+            "fgchanges": null,
+            "keysounds": "",
+            "attacks": null,
+            "tickcounts": null,
+            "offset": "-0.016",
+            "bpms": "0.000=128.000",
+            "stops": "",
+            "delays": null,
+            "charts": [
+                {
+                    "stepstype": "dance-single",
+                    "description": "ITGAlex",
+                    "difficulty": "Challenge",
+                    "meter": "11",
+                    "radarvalues": "0.887,0.906,0.289,0.254,1.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "ITGAlex",
+                    "difficulty": "Hard",
+                    "meter": "8",
+                    "radarvalues": "0.618,0.613,0.162,0.557,0.412"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "ITGAlex",
+                    "difficulty": "Medium",
+                    "meter": "5",
+                    "radarvalues": "0.360,0.373,0.007,0.261,0.081"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "ITGAlex",
+                    "difficulty": "Easy",
+                    "meter": "2",
+                    "radarvalues": "0.185,0.266,0.014,0.155,0.000"
+                },
+                {
+                    "stepstype": "dance-single",
+                    "description": "ITGAlex",
+                    "difficulty": "Beginner",
+                    "meter": "1",
+                    "radarvalues": "0.077,0.159,0.000,0.021,0.000"
+                },
+                {
+                    "stepstype": "dance-double",
+                    "description": "ITGAlex",
+                    "difficulty": "Challenge",
+                    "meter": "11",
+                    "radarvalues": "0.922,0.906,0.282,0.585,1.000"
+                }
+            ]
+        }
+    ]}
+
+
+    
+
+
