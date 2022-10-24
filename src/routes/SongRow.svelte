@@ -1,10 +1,33 @@
 <script lang=ts>
-    export let title: string;
-    export let subtitle: string;
-    export let artist: string;
+    const getBPM = (bpmString) => {
+        if (bpmString == null)
+            return '';
+        const regexp = /=\d+\b/g;
+        const bpms = [...(bpmString.matchAll(regexp))].map(x => parseInt(x[0].slice(1)));
+        if (bpms.length == 1)
+            return bpms[0];
+        return `${Math.min(...bpms)}–${Math.max(...bpms)}`
+    };
+
+    const diffucultySort = (a, b) => {
+        a.meter = parseInt(a.meter);
+        b.meter = parseInt(b.meter)
+        if(a.meter == b.meter) {
+            return a['difficulty'] == 'Edit'? 1 : -1;
+        }
+        return a.meter - b.meter;
+    }
+
+    export let song: object;
     export let pack: string;
-    export let bpm: string;
-    export let charts: Array<object>;
+    // let title: string;
+    // let bpms: string;
+    // let subtitle: string;
+    // let artist: string;
+    // let charts: Array<object>;
+    let {title, bpms, subtitle, artist, charts} = song;
+    const bpm = getBPM(bpms);
+    charts.sort(diffucultySort);
     let focusedChart = charts[0];
 
     function changeChart(chart) : void {
