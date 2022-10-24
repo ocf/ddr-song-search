@@ -1,12 +1,9 @@
 <script>
-	import { json } from '@sveltejs/kit';
     import Song from './Song.svelte';
-    // const packs = fetch('/src/songs_small.json').then(x => x.json()).then(results => window.myResults = results)
     const promise = fetch('/src/songs_small.json').then(x => x.json());
-    // const packKeys = Object.keys(packs).slice(0,2);
 </script>
 
-<div>
+<div id="song-list">
     {#await promise}
     <p>waiting...</p>
     {:then packs}
@@ -18,4 +15,14 @@
     {/await}
 </div>
 
+<style>
+
+    #song-list {
+        background-color:black;
+        padding: 5px;
+        height: calc(100vh * 0.8);
+        overflow-y: scroll;
+    }
+
+</style>
 
