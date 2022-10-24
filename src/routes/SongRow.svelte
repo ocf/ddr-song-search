@@ -1,15 +1,17 @@
 <script lang=ts>
+    interface Chart {
+        description: string;
+        difficulty: string;
+        meter: string;
+    }
+
     export let title: string;
     export let subtitle: string;
     export let artist: string;
     export let pack: string;
     export let bpm: string;
-    export let charts: Array<object>;
-    let focusedChart = charts[0];
-
-    function changeChart(chart) : void {
-        focusedChart = chart;
-    }
+    export let charts: Array<Chart>;
+    let focusedChart = charts[charts.length - 1];
     let difficultyToColor = {
         "Beginner": "bg-green-400",
         "Easy": "bg-yellow-400",
@@ -31,9 +33,11 @@
             <div class="flex justify-end w-1/6 p-2">
                 {#each charts as chart}
                     <div class="flex">
-                        <button class="{difficultyToColor[chart.difficulty]} w-8 h-8 rounded-md mx-1"on:click={changeChart} value={chart}>
-                            {chart.meter}
-                        </button>
+                        <button 
+                        class={"w-8 h-8 rounded-md mx-1 " + difficultyToColor[chart.difficulty]}
+                        class:selected={focusedChart == chart}
+                        on:click={() => focusedChart = chart}
+                        >{chart.meter}</button>
                     </div>
                 {/each}
             </div>
@@ -44,3 +48,8 @@
         <p>{focusedChart.description}</p>
     </div>
 </div>
+<style>
+    .selected {
+        @apply border-solid border-black border-2;
+    }
+</style>
