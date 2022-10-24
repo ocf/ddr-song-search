@@ -1,5 +1,7 @@
 <script>
     const getBPM = (bpmString) => {
+        if (bpmString == null)
+            return '';
         const regexp = /=\d+\b/g;
         const bpms = [...(bpmString.matchAll(regexp))].map(x => parseInt(x[0].slice(1)));
         if (bpms.length == 1)
@@ -18,7 +20,6 @@
     const {title, subtitle, artist, charts, bpms} = song;
     const bpm = getBPM(bpms);
     const difficulties = getDifficulties(charts);
-    console.log(difficulties);
 </script>
 
 <div class='body'>
@@ -72,6 +73,10 @@
 
     .difficulty-edit {
         background-color: gray;
+    }
+
+    .difficulty:hover {
+        outline: 2px solid black;
     }
 
     .difficulties {
